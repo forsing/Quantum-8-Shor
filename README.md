@@ -11,7 +11,7 @@
 https://github.com/forsing
 https://github.com/forsing?tab=repositories
  
- 
+    
 Loto Skraceni Sistemi
 https://www.lotoss.info
 ABBREVIATED LOTTO SYSTEMS
