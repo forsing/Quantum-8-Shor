@@ -23,9 +23,9 @@ random.seed(39)
 np.random.seed(39)
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_2980.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_plus_1736.csv"),
+    Path("/data/loto7_4716_k89.csv"),
+    Path("/data/loto7_4716_k89_loto_2980.csv"),
+    Path("/data/loto7_4716_k89_loto_plus_1736.csv"),
 )
 
 TITLE = "Quantum Shor - Modular Orbit"
@@ -2329,13 +2329,13 @@ Udeo istorijskih raspona manjih ili jednakih NEXT rasponu: 19.135%
 ZAVRSNE NEXT KOMBINACIJE
 
 loto7_4716_k89.csv
-NEXT: 6 12 20 25 29 31 39
+NEXT: 6 x 20 y 29 z 39
 
 loto7_4716_k89_loto_2980.csv
-NEXT: 12 14 17 18 26 33 39
+NEXT: 12 x 17 y 26 z 39
 
 loto7_4716_k89_loto_plus_1736.csv
-NEXT: 9 15 17 25 28 33 34
+NEXT: 9 x 17 y 28 z 34
 """
 
 
